@@ -13,3 +13,5 @@ C:\Users\Angel\OneDrive\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8\
 C:\Users\Angel\OneDrive\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net6.0\ChallengesWithTestsMark8.pdb
 C:\Users\Angel\OneDrive\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net6.0\ChallengesWithTestsMark8.genruntimeconfig.cache
 C:\Users\Angel\OneDrive\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net6.0\ref\ChallengesWithTestsMark8.dll
+C:\Users\Angel\OneDrive\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\net6.0\MathNet.Numerics.dll
+C:\Users\Angel\OneDrive\Desktop\repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net6.0\ChallengesWithTestsMark8.csproj.CopyComplete

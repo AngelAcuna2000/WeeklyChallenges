@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Fb41clySKQ0VX/dcUAN5H8+KX7s8Pehubwhqt2Zzok7c80cn6Rbvt9CpdjIOKxWzsUa9/eQYsr5axqoYnnMF+w==",
+  "dgSpecHash": "IrQdGO7wXzmC6O4t1fGo0Z/cIYzcnQ/hRrtLm20TgzBNGELVcG0V5/qux6LtKX5ZeughGipet3ns7riilh3ynQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Angel\\OneDrive\\Desktop\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Angel\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
     "C:\\Users\\Angel\\.nuget\\packages\\microsoft.codecoverage\\15.9.0\\microsoft.codecoverage.15.9.0.nupkg.sha512",
     "C:\\Users\\Angel\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\Angel\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\1.0.3\\microsoft.dotnet.platformabstractions.1.0.3.nupkg.sha512",

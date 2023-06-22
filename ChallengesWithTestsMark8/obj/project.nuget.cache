@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Z14vT+pIPC8lwLT7Ks21Z55ZkHyIqPoxcyQKA/kZrbpzbD5YAYELNQ+DHkAw1Oq553aU2zO6EhVdBeEffYzViw==",
+  "dgSpecHash": "Y00r7blTI7uRKCj+R1pAO5kWfWVPmJmy+IdG60X+QklcANfwq3b1AWU2oMkdv2cB9i0/etoFj3KCHyEyov1REA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Angel\\OneDrive\\Desktop\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Angel\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
