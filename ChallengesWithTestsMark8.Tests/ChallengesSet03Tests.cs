@@ -21,7 +21,7 @@ namespace ChallengesWithTestsMark8.Tests
         [InlineData(new bool[] { false, true, false }, true)]
         [InlineData(new bool[] { false, false }, true)]
         [InlineData(new bool[] { false }, true)]
-        //[InlineData(null, false)] // Assumption: Array will not be null
+        [InlineData(null, false)]
         public void ArrayContainsAFalse(bool[] values, bool expected)
         {
             // Arrange
@@ -215,7 +215,7 @@ namespace ChallengesWithTestsMark8.Tests
         [InlineData(new[] { "ab1" }, new[] { "AB1" })]
         [InlineData(new[] { "" }, new[] { "" })]
         [InlineData(new string[] { }, new string[] { })]
-        //[InlineData(null, null)] // Assumption: Array will not be null
+        //[InlineData(null, null)]
         public void ChangeAllElementsToUppercase(string[] values, string[] expected)
         {
             // Arrange
